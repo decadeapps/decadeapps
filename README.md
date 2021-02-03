@@ -14,6 +14,6 @@ I'm a new coder with dreams of making web applications & games that help **peopl
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=decadeapps" alt="decadeapps" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=decadeapps" alt="decadeapps" /> </p>
 
 
