@@ -1,5 +1,10 @@
 <h1 align="center">👋hi! I am Ral</h2>
+<h3 align="center">I have too many ideas, so I started programming</h3>
 
-<h3 align="center">I have to many ideas, so I started Programming</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=decadeapps" alt="decadeapps" /> </p>
 
-<p align="left"> <img src="https://decadeapps.com" alt="Raleigh Harris Portfolio" /> </p>
+🏔 I live in the the PNW
+
+🛹 I like to skateboard
+
+🌎 I believe technology can change the world
